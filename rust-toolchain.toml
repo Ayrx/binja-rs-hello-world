@@ -1,0 +1,3 @@
+[toolchain]
+channel = "nightly-2021-06-22"
+targets = [ "x86_64-apple-darwin", "aarch64-apple-darwin" ]
